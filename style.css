@@ -1,0 +1,37 @@
+  .hd1
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 30px;
+    font-family: Cochin;
+  }
+  .hd2
+  {float:none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .hd3
+  {
+    font-size: 18px ;
+    border-radius: 20px;
+  }
+  .on1
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ canvas{border: 10px ridge black;margin-top: 30px;}
+ .copy_right_footer{
+bottom:0;
+text-align: center;
+width:100%;
+position: fixed;
+background-color:blueviolet;
+color: black;
+font-size:15px;
+ }
